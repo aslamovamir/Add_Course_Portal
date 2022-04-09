@@ -1,0 +1,12 @@
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\bin\Debug\USF Student Registration.exe.config
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\bin\Debug\USF Student Registration.exe
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\bin\Debug\USF Student Registration.pdb
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF Student Registration.csprojAssemblyReference.cache
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF_Student_Registration.Dashboard.resources
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF_Student_Registration.Properties.Resources.resources
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF Student Registration.csproj.GenerateResource.cache
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF Student Registration.exe
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF Student Registration.pdb
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF_Student_Registration.AddCourse_Window.resources
+C:\Users\amiraslamov\source\repos\USF Student Registration\USF Student Registration\obj\Debug\USF_Student_Registration.DropCourse_Window.resources
